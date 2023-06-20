@@ -1,2 +1,2 @@
 # Python-FinalProject
-Final Project Python - University
+Final Project Python - SNAKE GAME - University
