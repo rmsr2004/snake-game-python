@@ -1,2 +1,3 @@
-# Python-FinalProject
-Final Project Python - SNAKE GAME - University
+# IPRP 1ºY 1ºS - Final Project
+
+Develop snake game on python using turtle.
